@@ -1,0 +1,64 @@
+[
+	{
+		"type": "CHECK_IN",
+		"time": 1,
+		"data": {
+			"guest": 1,
+			"stars": 1
+		}
+	},
+	{
+		"type": "CHECK_IN",
+		"time": 3,
+		"data": {
+			"guest": 5,
+			"stars": 100
+		}
+	},
+	{
+		"type": "CHECK_OUT",
+		"time": 20,
+		"data": {
+			"guest": 1
+		}
+	},
+	{
+		"type": "GODZILLA",
+		"time": 110,
+		"data": {}
+	},
+	{
+		"type": "START_CINEMA",
+		"time": 85,
+		"data": {
+			"duration": 10
+		}
+	},
+	{
+		"type": "CLEANING_EMERGENCY",
+		"time": 105,
+		"data": {
+			"guest": 30
+		}
+	},
+	{
+		"type": "GO_TO_FITNESS",
+		"time": 69,
+		"data": {
+			"guest": 11,
+			"duration": 10
+		}
+	},
+	{
+		"type": "GO_TO_FITNESS",
+		"time": 69,
+		"data": {
+			"guest": 11
+		}
+	},
+	{
+	"type": "EVACUATE",
+	"time": 60,
+	"data": {}
+	}
+]

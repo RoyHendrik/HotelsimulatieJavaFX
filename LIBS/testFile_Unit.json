@@ -1,0 +1,84 @@
+[
+	{
+		"type": "room",
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"dimensions": {
+			"width": 1,
+			"height": 1
+		},
+		"data": {
+			"stars": 1
+		}
+	},
+	{
+		"type": "room",
+		"position": {
+			"x": 1,
+			"y": 1
+		},
+		"dimensions": {
+			"width": 1,
+			"height": 1
+		},
+		"data": {
+			"stars": 100
+		}
+	},
+	{
+		"type": "fitness",
+		"position": {
+			"x": 4,
+			"y": 1
+		},
+		"dimensions": {
+			"width": 2,
+			"height": 1
+		},
+		"data": {}
+	},
+
+	{
+		"type": "diner",
+		"position": {
+			"x": 0,
+			"y": 2
+		},
+		"dimensions": {
+			"width": 2,
+			"height": 1
+		},
+		"data": {
+			"max": 3
+		}
+	},
+	{
+		"type": "movie",
+		"position": {
+			"x": 4,
+			"y": 2
+		},
+		"dimensions": {
+			"width": 2,
+			"height": 2
+		},
+		"data": {}
+	},
+
+	{
+		"type": "panicRoom",
+		"position": {
+			"x": 10,
+			"y": 10
+		},
+		"dimensions": {
+			"width": 10,
+			"height": 10
+		},
+		"data": {
+			"stars": 500
+		}
+	}
+]
